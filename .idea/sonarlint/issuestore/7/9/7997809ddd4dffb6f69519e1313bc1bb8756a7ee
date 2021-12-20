@@ -1,0 +1,73 @@
+
+h
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 69 to the 15 allowed.(Çµí‘
+K
+java:S1854["5Remove this useless assignment to local variable "f".(›ã†þ
+R
+java:S1854t"<Remove this useless assignment to local variable "isSymbol".(ÇˆŸç
+N	java:S106"9Replace this use of System.out or System.err by a logger.(â÷ºß
+N	java:S106"9Replace this use of System.out or System.err by a logger.(‰òíì
+S	java:S106	"9Replace this use of System.out or System.err by a logger.(“—í¦úÿÿÿÿ
+N	java:S106
+"9Replace this use of System.out or System.err by a logger.(¹éïï
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ûÛ€òþÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ÜˆÄøÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Åªµ‡øÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(´¿Á¾ûÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(¼Ê€œ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ÁÐüÝýÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(˜’ùÔ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(°ç½Ñúÿÿÿÿ
+a	java:S128š"LEnd this switch case with an unconditional break, return or throw statement.(ÒñŠ{
+N	java:S106"9Replace this use of System.out or System.err by a logger.(›…Ûù
+S	java:S106"9Replace this use of System.out or System.err by a logger.(º”…”ÿÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(µ¬œ‡
+S	java:S106 "9Replace this use of System.out or System.err by a logger.(åõÁøÿÿÿÿ
+N	java:S106#"9Replace this use of System.out or System.err by a logger.(ãƒ—ä
+S	java:S106&"9Replace this use of System.out or System.err by a logger.(§ÑŸýÿÿÿÿ
+N	java:S106+"9Replace this use of System.out or System.err by a logger.(‰¯ø•
+N	java:S1063"9Replace this use of System.out or System.err by a logger.(ÓŒ‹é
+N	java:S1067"9Replace this use of System.out or System.err by a logger.(¼—µ¦
+N	java:S106:"9Replace this use of System.out or System.err by a logger.(Â—È³
+S	java:S106="9Replace this use of System.out or System.err by a logger.(á«µÂùÿÿÿÿ
+S	java:S106B"9Replace this use of System.out or System.err by a logger.(¤ÚÑÊúÿÿÿÿ
+N	java:S106H"9Replace this use of System.out or System.err by a logger.(ªýúà
+N	java:S106L"9Replace this use of System.out or System.err by a logger.(ÿÅ±
+S	java:S106Q"9Replace this use of System.out or System.err by a logger.(ßÝå’øÿÿÿÿ
+S	java:S106R"9Replace this use of System.out or System.err by a logger.(ŠîˆÐúÿÿÿÿ
+S	java:S106S"9Replace this use of System.out or System.err by a logger.(ÿ° ’þÿÿÿÿ
+_
+java:S1659\"DDeclare "isLower" and all following declarations on a separate line.(­«Öìúÿÿÿÿ
+S	java:S106X"9Replace this use of System.out or System.err by a logger.(…µî±ûÿÿÿÿ
+<
+java:S1481["&Remove this unused "f" local variable.(›ã†þ
+H
+java:S1481\"-Remove this unused "isSymbol" local variable.(­«Öìúÿÿÿÿ
+B
+java:S1125s"'Remove the unnecessary boolean literal.(÷Ûûàùÿÿÿÿ
+B
+java:S1125s"'Remove the unnecessary boolean literal.(÷Ûûàùÿÿÿÿ
+B
+java:S1125s"'Remove the unnecessary boolean literal.(÷Ûûàùÿÿÿÿ
+O	java:S106€"9Replace this use of System.out or System.err by a logger.(¬¡£
+T	java:S106ƒ"9Replace this use of System.out or System.err by a logger.(›ÑÊùÿÿÿÿÿ
+O	java:S106†"9Replace this use of System.out or System.err by a logger.(ûÊé
+O	java:S106‹"9Replace this use of System.out or System.err by a logger.(’Ð×ö
+T	java:S106"9Replace this use of System.out or System.err by a logger.(…¬ç‡úÿÿÿÿ
+O	java:S106˜"9Replace this use of System.out or System.err by a logger.(ÓÚøã
+O	java:S106›"9Replace this use of System.out or System.err by a logger.(Œ™×–
+T	java:S106œ"9Replace this use of System.out or System.err by a logger.(ƒœ½Ýùÿÿÿÿ
+T	java:S106Ÿ"9Replace this use of System.out or System.err by a logger.(ÞýÖõüÿÿÿÿ
+o
+java:S1128"TRemove this unnecessary import: same package classes are always implicitly imported.(Ìí¿Üüÿÿÿÿ
+b
+java:S1192€"KDefine a constant instead of duplicating this literal "Strength: " 3 times.(¬¡£
+a
+java:S1192"KDefine a constant instead of duplicating this literal "Your BMI: " 4 times.(µ¬œ‡
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(òÔ”Êýÿÿÿÿ
+g	java:S117Œ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‡Ìîþ
+l	java:S117Ž"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ì Ë®úÿÿÿÿ
+l	java:S117—"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŽµÛïýÿÿÿÿ
+b	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ØÄå
+=
+java:S2189""Add an end condition to this loop.(˜ïˆžÿÿÿÿÿ
